@@ -1,4 +1,4 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-13 at 3 29 53 PM" src="https://github.com/user-attachments/assets/e04c515b-d533-4f27-b21d-73cd9e46f0ab" /># 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
@@ -48,7 +48,9 @@ while i < n:
 s.close()
 ```
 ## OUPUT
-![Uploading WhatsApp Image 2026-05-13 at 3.29.53 PM.jpeg…]()
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-13 at 3 29 53 PM" src="https://github.com/user-attachments/assets/742bee5f-3f91-42ee-a553-338a3e1802b1" />
+
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
